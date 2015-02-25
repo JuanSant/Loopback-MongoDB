@@ -1,0 +1,7 @@
+{
+  "lb": {
+    "name": "lb",
+    "connector": "mongodb",
+    "database": "loopbackdb"
+  }
+}

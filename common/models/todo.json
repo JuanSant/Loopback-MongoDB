@@ -1,0 +1,17 @@
+{
+  "name": "Todo",
+  "base": "PersistedModel",
+  "mongodb": {
+    "collection": "TodoCollection"
+  },
+  "properties": {
+    "content": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
